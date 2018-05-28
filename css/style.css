@@ -553,7 +553,7 @@ ul.portfolio li.active {
 }
 
 .item img {
-    width: 100%;
+    height: 100%;
 }
 
 .item {
@@ -777,6 +777,16 @@ ul.portfolio li.active {
 .nothing-title:hover {
   color: #1d2c4d;
 }
+
+.dynamic-title {
+  color: #ccc;
+  transition: 0.3s;
+}
+
+.dynamic-title:hover {
+  color: #da3a2f;
+}
+
 
 .portfolio-inner ul {
   display: flex;
