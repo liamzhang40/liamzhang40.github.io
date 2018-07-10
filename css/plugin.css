@@ -1,4 +1,4 @@
-/* Table Of Content 
+/* Table Of Content
 
   1. Bootstrap
   2. Magnific Popup
@@ -268,9 +268,9 @@ button::-moz-focus-inner {
 
 /* Main image in popup */
 img.mfp-img {
-  width: auto;
+  width: 80%;
   max-width: 100%;
-  height: auto;
+  height: 80%;
   display: block;
   line-height: 0;
   box-sizing: border-box;
@@ -374,14 +374,14 @@ img.mfp-img {
   .mfp-container {
     padding-left: 6px;
     padding-right: 6px; } }
-	
-	
-	
-	
-	
 
 
-/* 
+
+
+
+
+
+/*
  * 	Core Owl Carousel CSS File
  *	v1.3.3
  */
@@ -419,7 +419,7 @@ img.mfp-img {
 	-o-transition: height 500ms ease-in-out;
 	transition: height 500ms ease-in-out;
 }
-	
+
 .owl-carousel .owl-item{
 	float: left;
 }
@@ -437,7 +437,7 @@ img.mfp-img {
 }
 
 /* mouse grab icon */
-.grabbing { 
+.grabbing {
     cursor:url(grabbing.png) 8 8, move;
 }
 
@@ -454,7 +454,7 @@ img.mfp-img {
 
 
 /*
-* 	Owl Carousel Owl Demo Theme 
+* 	Owl Carousel Owl Demo Theme
 *	v1.3.3
 */
 
@@ -534,8 +534,8 @@ img.mfp-img {
 }
 
 
-/* 
- *  Owl Carousel CSS3 Transitions 
+/*
+ *  Owl Carousel CSS3 Transitions
  *  v1.3.2
  */
 
